@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "hotosm_tls_education_facilities_polygons_geojson",
+"name": "hotosm_tls_education_facilities_all_geojson",
 "features": [
 { "type": "Feature", "properties": { "name": "Escola Basica Filial Mazop, Ai-Assa", "name:en": null, "amenity": "school", "building": null, "operator:type": null, "capacity:persons": null, "addr:full": null, "addr:city": null, "source": null, "name:pt": null, "name:tet": null, "osm_id": 10689641270, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ 125.3054313, -9.0612753 ] } },
 { "type": "Feature", "properties": { "name": null, "name:en": null, "amenity": "school", "building": null, "operator:type": null, "capacity:persons": null, "addr:full": null, "addr:city": null, "source": null, "name:pt": null, "name:tet": null, "osm_id": 7380144685, "osm_type": "nodes" }, "geometry": { "type": "Point", "coordinates": [ 124.3539637, -9.3023384 ] } },
